@@ -1,1 +1,5 @@
-zai 1
+a 1 1
+bu 1
+jia 1
+wo 1
+zai 2
